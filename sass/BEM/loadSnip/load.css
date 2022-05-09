@@ -1,0 +1,57 @@
+.play {
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  content: "";
+  background-color: transparent;
+  top: unset;
+  right: unset;
+  left: 0;
+  background-color: #F5F5F5;
+  z-index: 100;
+}
+
+.load {
+  display: none;
+  position: absolute;
+  content: "";
+  background-color: transparent;
+  top: 50%;
+  right: unset;
+  left: 50%;
+  width: 50px;
+  height: 50px;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  border: 4px solid #0077B7;
+  z-index: 200;
+  border-radius: 50%;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  -webkit-animation: snip 400ms linear infinite;
+          animation: snip 400ms linear infinite;
+}
+
+@-webkit-keyframes snip {
+  0% {
+    -webkit-transform: rotate(0turn);
+            transform: rotate(0turn);
+  }
+  100% {
+    -webkit-transform: rotate(1turn);
+            transform: rotate(1turn);
+  }
+}
+
+@keyframes snip {
+  0% {
+    -webkit-transform: rotate(0turn);
+            transform: rotate(0turn);
+  }
+  100% {
+    -webkit-transform: rotate(1turn);
+            transform: rotate(1turn);
+  }
+}
+/*# sourceMappingURL=load.css.map */

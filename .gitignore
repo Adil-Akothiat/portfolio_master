@@ -1,0 +1,13 @@
+/.vscode
+/sass/style.scss
+/sass/mixins/mixins.scss
+/sass/variables/_var.scss
+/sass/BEM/accordion/accordion.scss
+/sass/BEM/dark_mode/dark.scss
+/sass/BEM/footer/footer.scss
+/sass/BEM/form/form.scss
+/sass/BEM/header/header.scss
+/sass/BEM/loadSnip/load.scss
+/sass/BEM/main/main.scss
+/sass/BEM/projects/projects.scss
+/sass/BEM/skills/skills.scss

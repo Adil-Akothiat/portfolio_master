@@ -1,0 +1,51 @@
+[
+    {
+        "name":"count down timer",
+        "img":"../images/count_down_timer.png",
+        "technologies": ["scss", "html", "javascript"],
+        "demoSite": "https://wonderful-swirles-2a812a.netlify.app/",
+        "sourceCode": "https://github.com/Adil-Akothiat/LaunchCountdownTimer"
+    },
+    {
+        "name":"team page chall",
+        "img":"../images/crew_design.png",
+        "technologies": ["scss", "html"],
+        "demoSite": "https://jolly-lalande-73145a.netlify.app/",
+        "sourceCode": "https://github.com/Adil-Akothiat/my_team_page__chall"
+    },
+    {
+        "name":"faq accordion list",
+        "img":"../images/faq_accordion_list.png",
+        "technologies": ["html", "css", "javascript"],
+        "demoSite": "https://tender-jackson-d4f05e.netlify.app/",
+        "sourceCode": "https://github.com/Adil-Akothiat/FAQ_Accordion"
+    },
+    {
+        "name":"form checkout",
+        "img":"../images/form_checkout.png",
+        "technologies": ["scss", "html", "javascript"],
+        "demoSite": "https://happy-franklin-359ebc.netlify.app/",
+        "sourceCode": "https://github.com/Adil-Akothiat/checkout_page"
+    },
+    {
+        "name":"not found master page",
+        "img":"../images/not_found_master_page.png",
+        "technologies": ["scss", "html"],
+        "demoSite": "https://adoring-kirch-470407.netlify.app/",
+        "sourceCode": "https://github.com/Adil-Akothiat/404_NOT_FOUND"
+    },
+    {
+        "name":"repo search",
+        "img":"../images/repo_search_project.png",
+        "technologies": ["html", "javascript"],
+        "demoSite": "https://frosty-kepler-413b6d.netlify.app/",
+        "sourceCode": "https://github.com/Adil-Akothiat/repo_search"
+    },
+    {
+        "name":"rest countries api",
+        "img":"../images/rest_countries_api.png",
+        "technologies": ["javascript", "scss", "html"],
+        "demoSite": "https://grand-cupcake-a57a9f.netlify.app/",
+        "sourceCode": "https://github.com/Adil-Akothiat/Rest-Countries-API"
+    }
+]

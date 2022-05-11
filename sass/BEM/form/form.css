@@ -48,9 +48,25 @@
   text-align: center;
   color: #232323;
   border: 0px solid #868686;
-  width: 100px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
   margin: auto;
   cursor: pointer;
+}
+
+.form_success {
+  border-width: 2px;
+  border-color: #397c21;
+  color: #397c21;
+  background-color: #c5fcbe;
+}
+
+.form_fail {
+  border-width: 2px;
+  color: #f15252;
+  border-color: #f15252;
+  background-color: #ffc0c0;
 }
 
 @media screen and (min-width: 400px) {
@@ -63,5 +79,13 @@
   .frm input {
     width: 500px;
   }
+}
+
+.frm .fail_input {
+  border-color: #f15252;
+}
+
+.pd {
+  padding: 5px 20px;
 }
 /*# sourceMappingURL=form.css.map */
